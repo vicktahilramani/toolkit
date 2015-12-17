@@ -1,0 +1,28 @@
+{
+  "name": "web",
+  "description": "web",
+  "main": "",
+  "authors": [
+    "vick"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "toastr": "~2.1.2",
+    "jquery": "~2.1.4",
+    "angular": "~1.4.8",
+    "angular-animate": "~1.4.8",
+    "angular-sanitize": "~1.4.8"
+  }
+}
